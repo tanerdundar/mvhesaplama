@@ -97,3 +97,4 @@ function dHondt(votes, seats) {
 
 // console.log(results);
 // Output: { 'Party A': 4, 'Party B': 3, 'Party C': 0, 'Party D': 0 }
+//deneme
